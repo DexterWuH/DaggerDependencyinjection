@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerDependencyInjection</string>
+    <string name="settings_option">Settings</string>
+    <string name="weather_option">Weather details</string>
+    <string name="suggestion_coordinate">33.3333</string>
+    <string name="save_new_city_text">Set new coordinates</string>
+</resources>
